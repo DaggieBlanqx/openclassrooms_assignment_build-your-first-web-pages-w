@@ -1,0 +1,8 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "scripts": {
+   "start": "concurrently \"npm run prettier-watch\" \"browser-sync start --server --files \"css/*.css\" \"js/*.js\" \"./*.html\"\""
+	},
+  "author": "Daggie Blanqx"
+}

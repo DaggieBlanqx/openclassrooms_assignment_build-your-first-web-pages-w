@@ -1,0 +1,65 @@
+body{
+	background-color: #394762;
+	color:#ffffff;
+	font-family: Helvetica,serif;
+	font-size: 1em;
+	line-height: 1.6em;
+}
+
+#uiHolder{
+	padding:30px;
+	border:solid white 3px;
+	margin: 10px;
+	border-radius: 7px;
+}
+
+#books{
+	background-color: #D5212E;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+	padding: 7px;
+}
+
+#music{
+	background-color: #C62121;
+	padding: 7px;
+}
+
+
+#movies{
+	background-color: #8D0101;
+	padding: 7px;
+}
+
+#food{
+	background-color: #680101;
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
+	padding: 7px;
+}
+
+a{
+	color:white;
+	text-decoration: underline;
+}
+
+
+a:hover{
+	cursor:pointer;
+	color: white;
+	text-shadow: 8px 0px 8px #00a1ff;
+	font-size: 1.04em;
+	font-weight: bold;
+}
+
+strong{
+	text-transform: uppercase;
+}
+
+ol{
+	list-style-type: lower-alpha;
+}
+
+footer{
+	text-align: center;
+}
