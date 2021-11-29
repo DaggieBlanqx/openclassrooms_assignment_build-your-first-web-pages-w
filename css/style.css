@@ -6,6 +6,7 @@ body{
 	line-height: 1.6em;
 }
 
+
 #uiHolder{
 	padding:30px;
 	border:solid white 3px;
@@ -13,30 +14,30 @@ body{
 	border-radius: 7px;
 }
 
+main > div{
+	padding: 20px;
+}
+
 #books{
 	background-color: #D5212E;
 	border-top-left-radius: 7px;
 	border-top-right-radius: 7px;
-	padding: 7px;
-}
+ }
 
 #music{
 	background-color: #C62121;
-	padding: 7px;
-}
+ }
 
 
 #movies{
 	background-color: #8D0101;
-	padding: 7px;
-}
+ }
 
 #food{
 	background-color: #680101;
 	border-bottom-left-radius: 7px;
 	border-bottom-right-radius: 7px;
-	padding: 7px;
-}
+ }
 
 a{
 	color:white;
